@@ -1,0 +1,24 @@
+{
+  "name": "com.dopple.input-sdk",
+  "displayName": "Dopple Input SDK",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Cross-platform input SDK providing gyroscope control, vibration haptics, and WebView bridge communication for Unity games.",
+  "keywords": [
+    "input",
+    "gyroscope",
+    "gyro",
+    "vibration",
+    "haptics",
+    "webgl",
+    "webview",
+    "bridge",
+    "mobile"
+  ],
+  "author": {
+    "name": "Dopple"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.0"
+  }
+}

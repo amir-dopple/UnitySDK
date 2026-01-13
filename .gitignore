@@ -1,0 +1,25 @@
+# Unity generated
+*.meta
+*.pidb
+*.pdb
+*.mdb
+*.apk
+*.unitypackage
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+[Bb]uild/
+[Bb]uilds/
